@@ -1,4 +1,4 @@
-const express = require('express');
+/*const express = require('express');
 const router = express.Router();
 const { OpenAI } = require('openai');
 require('dotenv').config();
@@ -58,3 +58,4 @@ router.post('/chat', async (req, res) => {
 });
 
 module.exports = router;
+*/
